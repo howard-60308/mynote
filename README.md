@@ -1,9 +1,3 @@
----
-
-title: 交大人才培育計畫筆記
-
----
-
 # 神經網路
 
-[目錄](./index.md)
+[目錄](https://howard-60308.github.io/mynote/)
