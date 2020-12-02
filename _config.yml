@@ -1,5 +1,0 @@
-title: mynote
-theme: jekyll-theme-cayman
-markdown: kramdown
-plugins:
-  - jekyll-sitemap
